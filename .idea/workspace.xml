@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,29 +175,29 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="571" y="140" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601498063543" />
-    <state width="1224" height="195" key="GridCell.Tab.0.bottom" timestamp="1601500567030">
+    <state width="1224" height="195" key="GridCell.Tab.0.bottom" timestamp="1601509608242">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1224" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601500567030" />
-    <state width="1224" height="195" key="GridCell.Tab.0.center" timestamp="1601500567029">
+    <state width="1224" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601509608242" />
+    <state width="1224" height="195" key="GridCell.Tab.0.center" timestamp="1601509608242">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1224" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601500567029" />
-    <state width="1224" height="195" key="GridCell.Tab.0.left" timestamp="1601500567029">
+    <state width="1224" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601509608242" />
+    <state width="1224" height="195" key="GridCell.Tab.0.left" timestamp="1601509608242">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1224" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601500567029" />
-    <state width="1224" height="195" key="GridCell.Tab.0.right" timestamp="1601500567029">
+    <state width="1224" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601509608242" />
+    <state width="1224" height="195" key="GridCell.Tab.0.right" timestamp="1601509608242">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1224" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601500567029" />
+    <state width="1224" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601509608242" />
     <state x="275" y="57" key="SettingsEditor" timestamp="1601493452933">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="275" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601493452933" />
-    <state x="645" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1601493765832">
+    <state x="645" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1601586709301">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="645" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601493765832" />
+    <state x="645" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601586709301" />
   </component>
 </project>
